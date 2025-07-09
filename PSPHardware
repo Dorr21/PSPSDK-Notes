@@ -1,7 +1,7 @@
 PSP Hardware
 
 < The SoC >
-Most people think of a computer's CPU, RAM, and GPU as being their own seperate parts due to many only seeing the internals of a traditional PC. However, this
+Most people think of a computer's CPU, RAM, and GPU as being their own separate parts due to many only seeing the internals of a traditional PC. However, this
 approach takes up a lot of space and uses lots of energy, which isn't something you want for a portable device. This is why almost all small devices, the PSP
 included, take the circuits for all of these components and combine them into one small chip called a 'System On a Chip', or SoC for short. While SoC-based
 computers aren't as powerful as discrete-part computers, they are far smaller, produce less heat, and use less energy.
